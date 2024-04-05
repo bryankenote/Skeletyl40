@@ -3,6 +3,9 @@
 
 #pragma once
 
+// #define COMBO_VARIABLE_LEN 5
+// #define COMBO_TERM 5
+// #define COMBO_COUNT 5
 /*
  * Feature disable options
  *  These options are also useful to firmware size reduction.
